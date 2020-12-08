@@ -40,7 +40,7 @@
 	<tr>
 		<td colspan="2">
 			<input type = "submit" value = "등록하기">
-			<input type = "button" value = "다시쓰기" onclick="reset_form()">
+			<input type = "button" value = "다시쓰기">
 		</td>
 	</tr>
 </table>
